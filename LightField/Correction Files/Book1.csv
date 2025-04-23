@@ -1,0 +1,33 @@
+Defect Map,,,,
+Version,2,0,,
+Sensor Width,1024,,,
+Sensor Height,256,,,
+,,,,
+Cluster Defects,,,,
+ID,Type,Column,Row,Length
+1,R,480,201,10
+1,R,480,202,10
+1,R,480,203,10
+1,R,480,204,10
+1,R,480,205,10
+1,R,480,206,10
+1,R,480,207,10
+1,R,480,208,10
+2,R,806,245,7
+2,R,806,246,7
+2,R,806,247,7
+2,R,806,248,7
+2,R,806,249,7
+2,R,806,250,7
+2,R,806,251,7
+3,R,520,140,4
+3,R,520,141,4
+3,R,520,142,4
+3,R,520,143,4
+3,R,520,144,4
+Column Defects,,,,
+Column,Row,Length,,
+Row Defects,,,,
+Column,Row,Length,,
+Pixel Defects,,,,
+Column,Row,,,
