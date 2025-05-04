@@ -1,0 +1,7 @@
+10 scans to average
+exposure time 10seconds:
+control placenta: 14:25,14:27,14:30,14:35,14:39
+control seed: 14:43, 14:46,14:48,14:51,14:53
+infected placenta: 14:56,14:59,15:02,15:04,15:07
+exposure time 2seconds:
+15:10,15:13,15:18(0.5sec),15:20(1sec)
